@@ -1,1 +1,2 @@
 # flight
+![Dashboard](flight.png)
